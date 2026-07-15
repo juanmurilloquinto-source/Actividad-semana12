@@ -1,0 +1,13 @@
+Entidad 1: Causa
+- id
+- titulo
+- descripcion
+- fecha
+Para qué sirve: Almacena la información principal de cada petición que crea un ciudadano. Aquí se guarda de qué trata la causa, su título y cuándo se creó.
+
+Entidad 2: Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+Para qué sirve: Registra a las personas que apoyan una causa específica. El causa_id conecta cada apoyo con la causa a la que pertenece, para poder contar los apoyos y generar el PDF.

@@ -1,0 +1,23 @@
+Pregunta 1:  
+B. Una herramienta simple para que una comunidad registre apoyos a una causa y genere una petición formal
+
+Pregunta 2:  
+B. Convertir información registrada en un documento formal que pueda ser compartido o presentado
+
+Pregunta 3:  
+A. Para evitar almacenar información innecesaria o sensible
+
+Pregunta 4:  
+b. Presentar información de manera clara, verificable y comprensible
+
+### Archivo: reflexion-semana12.txt
+Texto de 8 a 10 líneas:
+
+Durante el curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación ciudadana. 
+Comprendí que con plataformas simples se puede organizar a una comunidad y recoger apoyos de forma rápida y segura.
+También aprendí la importancia de diseñar sistemas que protejan los datos personales y solo pidan la información necesaria.
+El uso de herramientas como n8n y Telegram me mostró cómo automatizar procesos para que las peticiones lleguen más rápido a las autoridades.
+Entendí que un buen modelo de datos ayuda a mantener todo organizado y claro.
+Además, vi que generar documentos PDF automáticamente le da formalidad a las solicitudes de la comunidad.
+Lo más importante fue aprender que la tecnología no reemplaza la organización, sino que la potencia.
+Ahora sé que con pocos recursos podemos crear soluciones que ayuden a que más personas participen y sus voces sean escuchadas.

@@ -1,0 +1,8 @@
+Evento que activa la automatización:  
+Cuando una causa alcanza el número mínimo de apoyos definidos en el sistema.
+
+Mensaje que se envía por Telegram:  
+"Alerta: La causa '[titulo de la causa]' ya alcanzó los apoyos necesarios. Se generó el documento PDF y está listo para presentar."
+
+Información que NO debe enviarse por seguridad:  
+Nombres completos de los que apoyaron, cédulas, teléfonos, direcciones, correos electrónicos o cualquier dato personal de los ciudadanos.
